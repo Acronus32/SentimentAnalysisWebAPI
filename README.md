@@ -15,4 +15,4 @@ Web-сервис реализующий публичное REST API, позво�
 ```
 по адресу http://ml.somee.com/api/predict
 
-!(https://github.com/Acronus32/SentimentAnalysisWebAPI/raw/main/postman.png)
+![alt text](https://github.com/Acronus32/SentimentAnalysisWebAPI/raw/main/postman.png)
